@@ -1,2 +1,7 @@
 
-print('Hello, World!')
+
+
+
+a = ('123', '321')
+
+print(a)
